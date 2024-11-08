@@ -19,7 +19,7 @@
 * Cloud computing, automation, and scalability with Docker containerization and Kubernetes
 
 ### Skills  :heavy_check_mark:
-![My Skills](https://skillicons.dev/icons?i=java,python,javascript,css,html,cpp,spring,hibernate,redis,kafka,maven,git,mysql,postgresql)
+![My Skills](https://skillicons.dev/icons?i=java,python,javascript,css,html,cpp,spring,hibernate,redis,kafka,maven,git,mysql,postgresql,jenkins)
 
-![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,react,d3,redux,babel,webpack,flask,nginx,terraform,github,bitbucket)
+![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,react,d3,redux,babel,webpack,flask,nginx,terraform,github,bitbucket,sklearn,anaconda)
 
