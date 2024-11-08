@@ -13,9 +13,8 @@
 <p>I am a computer science master’s student at Arizona State University, bringing six years of industry experience with a background that includes roles at PayPal, Paytm, and General Electric (GE). As a highly driven graduate student skilled in full-stack development, I am proficient across all phases of the development lifecycle to build globally scalable web projects. I am recognized for my strengths in communication, time management, and problem-solving, which support efficient project completion and tackling complex challenges. With a natural aptitude for leadership, I excel at fostering teamwork and cohesion in high-performing groups through interpersonal and critical thinking skills. My focus has been on product development, modernizing legacy systems to a microservices architecture, and optimizing scalable, high-performance solutions for commercial lending platforms.</p>
 
 ### interests 🔭
-
-* Fullstack Development, Distributed Systems and Data Engineering
-* Data Science, Machine Learning and Low-Level & High-Level Architecure Design
+* Fullstack Development, Distributed Systems, and Data Engineering
+* Data Science, Machine Learning, and Low-Level & High-Level Architecture Design
 * Cloud computing, automation, and scalability with Docker containerization and Kubernetes
 
 ### Skills  :heavy_check_mark:
